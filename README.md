@@ -1,2 +1,1 @@
-# ionic_land
-ionic
+# starters-v4-angular-sidemenu
